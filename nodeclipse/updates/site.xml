@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.nodeclipse_0.1.8.201210141644.jar" id="org.nodeclipse" version="0.1.8.201210141644">
+   <feature url="features/org.nodeclipse_0.1.8.201210141818.jar" id="org.nodeclipse" version="0.1.8.201210141818">
       <category name="nodeclipse"/>
    </feature>
-   <feature url="features/org.chromium.debug_0.3.9.201210141644.jar" id="org.chromium.debug" version="0.3.9.201210141644">
+   <feature url="features/org.chromium.debug_0.3.9.201210141818.jar" id="org.chromium.debug" version="0.3.9.201210141818">
       <category name="chromedevtools"/>
    </feature>
-   <feature url="features/org.chromium.debug.jsdtbridge_0.3.9.201210141644.jar" id="org.chromium.debug.jsdtbridge" version="0.3.9.201210141644">
+   <feature url="features/org.chromium.debug.jsdtbridge_0.3.9.201210141818.jar" id="org.chromium.debug.jsdtbridge" version="0.3.9.201210141818">
       <category name="chromedevtools"/>
    </feature>
-   <feature url="features/org.chromium.sdk_0.3.9.201210141644.jar" id="org.chromium.sdk" version="0.3.9.201210141644">
+   <feature url="features/org.chromium.sdk_0.3.9.201210141818.jar" id="org.chromium.sdk" version="0.3.9.201210141818">
       <category name="chromedevtools"/>
    </feature>
    <category-def name="nodeclipse" label="nodeclipse"/>
