@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.nodeclipse2_0.0.1.qualifier.jar" id="org.nodeclipse2" version="0.0.1.qualifier">
+   <feature url="features/org.nodeclipse2_0.0.1.201212021610.jar" id="org.nodeclipse2" version="0.0.1.201212021610">
       <category name="nodeclipse2"/>
    </feature>
    <category-def name="nodeclipse2" label="nodeclipse2"/>
