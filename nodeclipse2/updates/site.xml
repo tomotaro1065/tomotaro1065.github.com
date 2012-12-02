@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.nodeclipse2_0.0.1.201212021544.jar" id="org.nodeclipse2" version="0.0.1.201212021544">
+      <category name="nodeclipse2"/>
+   </feature>
+   <category-def name="nodeclipse2" label="nodeclipse2"/>
+</site>
