@@ -3,13 +3,13 @@
    <feature url="features/markdown.editor.feature_0.2.3.jar" id="markdown.editor.feature" version="0.2.3">
       <category name="Nodeclipse"/>
    </feature>
-   <feature url="features/org.chromium.debug_0.3.9.jar" id="org.chromium.debug" version="0.3.9">
+   <feature url="features/org.chromium.debug_0.3.9.201305031046.jar" id="org.chromium.debug" version="0.3.9.201305031046">
       <category name="Nodeclipse"/>
    </feature>
-   <feature url="features/org.chromium.sdk_0.3.9.jar" id="org.chromium.sdk" version="0.3.9">
+   <feature url="features/org.chromium.sdk_0.3.9.201305031046.jar" id="org.chromium.sdk" version="0.3.9.201305031046">
       <category name="Nodeclipse"/>
    </feature>
-   <feature url="features/org.nodeclipse_0.4.0.201305031033.jar" id="org.nodeclipse" version="0.4.0.201305031033">
+   <feature url="features/org.nodeclipse_0.4.0.201305031046.jar" id="org.nodeclipse" version="0.4.0.201305031046">
       <category name="Nodeclipse"/>
    </feature>
    <category-def name="Nodeclipse" label="Nodeclipse"/>
