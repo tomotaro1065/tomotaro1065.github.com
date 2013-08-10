@@ -6,16 +6,16 @@
    <feature url="features/markdown.editor.feature_0.2.3.jar" id="markdown.editor.feature" version="0.2.3">
       <category name="Tools"/>
    </feature>
-   <feature url="features/org.nodeclipse_0.5.0.201308041626.jar" id="org.nodeclipse" version="0.5.0.201308041626">
+   <feature url="features/org.chromium.debug_0.3.9.201308101106.jar" id="org.chromium.debug" version="0.3.9.201308101106">
       <category name="Nodeclipse"/>
    </feature>
-   <feature url="features/org.chromium.sdk_0.3.9.201308041626.jar" id="org.chromium.sdk" version="0.3.9.201308041626">
+   <feature url="features/org.chromium.sdk_0.3.9.201308101106.jar" id="org.chromium.sdk" version="0.3.9.201308101106">
       <category name="Nodeclipse"/>
    </feature>
-   <feature url="features/org.chromium.debug_0.3.9.201308041626.jar" id="org.chromium.debug" version="0.3.9.201308041626">
+   <feature url="features/org.nodeclipse_0.5.0.201308101106.jar" id="org.nodeclipse" version="0.5.0.201308101106">
       <category name="Nodeclipse"/>
    </feature>
-   <feature url="features/org.nodeclipse.bundle.express.feature_1.0.0.201308041626.jar" id="org.nodeclipse.bundle.express.feature" version="1.0.0.201308041626">
+   <feature url="features/org.nodeclipse.bundle.express.feature_1.0.0.201308101106.jar" id="org.nodeclipse.bundle.express.feature" version="1.0.0.201308101106">
       <category name="Bundle"/>
    </feature>
    <category-def name="Tools" label="Tools"/>
