@@ -15,7 +15,7 @@
    <feature url="features/org.nodeclipse_0.5.0.qualifier.jar" id="org.nodeclipse" version="0.5.0.qualifier">
       <category name="Nodeclipse"/>
    </feature>
-   <feature url="features/org.nodeclipse.bundle.coffee_script.feature_1.6.3.jar" id="org.nodeclipse.bundle.coffee_script.feature" version="1.6.3">
+   <feature url="features/org.nodeclipse.bundle.coffee.feature_1.6.3.jar" id="org.nodeclipse.bundle.coffee.feature" version="1.6.3">
       <category name="Bundles"/>
    </feature>
    <feature url="features/org.nodeclipse.bundle.express.feature_3.2.5.jar" id="org.nodeclipse.bundle.express.feature" version="3.2.5">
